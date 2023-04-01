@@ -1,0 +1,4 @@
+git init- to initilize
+git status
+git add .
+git commit -m "message"
